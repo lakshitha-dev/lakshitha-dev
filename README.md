@@ -137,8 +137,10 @@ const lakshitha = {
 
 ## ✍️ Latest on Medium
 
-<!-- BLOG-POST-LIST:START -->
-- [Building a Production-Ready RAG System: Architecture, Pipelines and CI/CD on Azure](https://medium.com/@lakshithaa)
+<!-- BLOG-POST-LIST:START -->- [Design the Process, Not the Prompt: Inside the BMAD Method for AI-Assisted Development](https://lakshithaa.medium.com/design-the-process-not-the-prompt-inside-the-bmad-method-for-ai-assisted-development-10f39439d6c9?source=rss-bd24d7a9a1d9------2) <sub>· Oct 15, 2026</sub>
+- [From Source Code to Exploit: How Shannon Rethinks AI Penetration Testing](https://lakshithaa.medium.com/from-source-code-to-exploit-how-shannon-rethinks-ai-penetration-testing-a4f448ebfd3c?source=rss-bd24d7a9a1d9------2) <sub>· Oct 14, 2026</sub>
+- [Building a Production-Ready RAG System: Architecture, Pipelines, and CI/CD on Azure](https://lakshithaa.medium.com/building-a-production-ready-rag-system-architecture-pipelines-and-ci-cd-on-azure-5f64d52498f1?source=rss-bd24d7a9a1d9------2) <sub>· Mar 18, 2026</sub>
+- [Mastering SOLID Principles: Writing Clean, Maintainable Code with Practical Examples](https://lakshithaa.medium.com/mastering-solid-principles-writing-clean-maintainable-code-with-practical-examples-526ecbbb3553?source=rss-bd24d7a9a1d9------2) <sub>· Aug 4, 2025</sub>
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ <a href="https://medium.com/@lakshithaa">More articles on Medium</a>
