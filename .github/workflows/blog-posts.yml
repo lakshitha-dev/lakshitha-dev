@@ -19,6 +19,6 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@lakshithaa"
           max_post_count: 5
-          template: "- [$title]($url) <sub>· $date</sub>$newline"
+          template: "$newline- [$title]($url) <sub>· $date</sub>"
           date_format: "mmm d, yyyy"
           commit_message: "docs: update latest Medium posts"
